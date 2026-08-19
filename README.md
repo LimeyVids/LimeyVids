@@ -8,7 +8,7 @@ When I'm not coding I am:
 - I am drifting on my simulator
 - I play random games with my friends from Valorant to Sea of Theives
 - I doom scroll
-- I try to fix my car in my free time
+- I try to fix my car in my free time 
 
 ## Classes I'm Taking
 
