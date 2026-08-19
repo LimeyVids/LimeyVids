@@ -1,16 +1,17 @@
-## Hi there 👋
+# Name
 
-<!--
-**LimeyVids/LimeyVids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Liam, I am taking a computer programming class.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding I am:
+- I am drifting on my simulator
+- I play random games with my friends from Valorant to Sea of Theives
+- I doom scroll
+- I try to fix my car in my free time
+
+## Classes I'm Taking
+
+- CSC 134 (C++)
+- MAT 272 (Calc II)
+- PHY 251 (Physics 1)
