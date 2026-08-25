@@ -4,21 +4,29 @@
 using namespace std;
 
 int main(){
-    cout << "Hello. Isabelle." << endl;
+    cout << "Hello INPUT_NAME! oh wait what's your name? ";
+    string INPUT_NAME;
+    getline(cin, INPUT_NAME);
+    
+
+    
+    cout << "Hello. " << INPUT_NAME << "!" << endl;
+
+
     cout << "How are you?..... ";
     
     string Feeling;
     getline(cin, Feeling);
 
     cout << "Well I am a dumb program but I hope you said Good!" << endl;
-    cout << "Now... tell me youe favorite song right now... ";
+    cout << "Now... tell me your favorite song right now... ";
 
     
     string song;
     getline(cin, song);
 
     cout << "WOW WAIT REALLY I LOVE " << song <<  "!!! WE SHOULD BE FRIENDS!!" << endl;
-    cout << "Goodbye Isabelle.";
+    cout << "Goodbye " << INPUT_NAME << "!" << endl;
 
     cout << endl;
 
